@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: auto;
+    background-color: rgb(52, 50, 50);
+    border-radius: 20px;
+   
+}
+
+#title{
+    font-size: 90px;
+    text-align: center;
+} 
+.heading{
+    font-family: 'Lobster', cursive;
+}
+#span1{
+    color: red;
+}
+
+#img-div{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+
+#image{
+    width: 500px;
+    box-shadow: 5px 5px 100px red;
+}
+
+#info{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    font-size: 25px;
+
+}
+
+#marvel{
+    color: red;
+    margin-left: 10%;
+}
+
+ul{
+    width: 80%;
+    margin: auto;
+    
+}
+
+li{
+    font-size: 24px;
+    line-height: 3rem;
+}
+
+#footer{
+    /* border: 2px;         */
+    margin: 2rem;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+#link{
+    text-decoration: none;
+    color: darkgoldenrod;
+    border: 2px solid darkgoldenrod;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.404);
+
+}
+
+#link:hover{
+    background-color: darkgoldenrod;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
